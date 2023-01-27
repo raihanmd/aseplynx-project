@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400;500;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Readex Pro", sans-serif;
+  transition: all 0.3s;
+  text-decoration: none;
+  border: none;
+}
+
+/* VARIABLE */
+:root {
+  --primary-color: #ffcb45;
+  --secondary-color: #8a8a8a;
+  --black: #212121;
+}
+
+.navbar {
+  background-color: #212121 !important;
+}
+/* COMPONENTS */
+
+/* STYLE SECTION */
+/* HERO */
+
+/* TABLET VIEW */
+@media (min-width: 720px) {
+}
+
+/* DESKTOP VIEW */
+@media (min-width: 1140px) {
+}
